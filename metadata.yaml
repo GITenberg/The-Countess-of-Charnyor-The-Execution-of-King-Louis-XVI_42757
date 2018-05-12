@@ -1,0 +1,45 @@
+_repo: The-Countess-of-Charnyor-The-Execution-of-King-Louis-XVI_42757
+_version: 0.1.0
+alternative_title: La comtesse de Charny. English
+contributor:
+  translator:
+    agent_name: Williams, Henry Llewellyn
+    aliases:
+    - Williams, Llew
+    - Mizzen, Matt
+    - Mizen, Mat
+    - Williams, H. L. (Henry Llewellyn)
+    birthdate: 1842
+    gutenberg_agent_id: '2433'
+    url: http://www.gutenberg.org/2009/agents/2433
+covers:
+- cover_type: archival
+  image_path: 42757-h/images/orig_cover.jpg
+creator:
+  author:
+    agent_name: Dumas, Alexandre
+    aliases:
+    - Dumas père, Alexandre
+    - Dumas, Alexandre, pere
+    - Dumas, Alexander
+    birthdate: 1802
+    deathdate: 1870
+    gutenberg_agent_id: '492'
+    url: http://www.gutenberg.org/2009/agents/492
+    wikipedia: http://en.wikipedia.org/wiki/Alexandre_Dumas,_père
+description: ''
+gutenberg_issued: '2013-05-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42757'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Marie Antoinette, Queen, consort of Louis XVI, King of France, 1755-1793
+  -- Fiction'
+- !lcsh 'France -- History -- Revolution, 1789-1799 -- Fiction'
+- !lcc 'PQ'
+title: The Countess of Charny; or, The Execution of King Louis XVI
+url: http://www.gutenberg.org/ebooks/42757
